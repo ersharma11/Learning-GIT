@@ -2,4 +2,4 @@
 <b>
 This is my first Git project. 
   
-Git Clone and Status
+1. Git Clone and Status
